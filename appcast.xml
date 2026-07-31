@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>GIFquick Updates</title>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[<h2>GIFquick 1.0</h2><p>First release.</p>]]></description>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/TwentyElevenLLC/gifquick-releases/releases/download/v1.0/GIFquick-1.0.zip"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0"
+                sparkle:edSignature="yeHrU/7qefQHE3TsbLMUD3LF+XlKAk+fi8b6R+5JuxcQDFPRfTwxVMZIsbqFI9h8zkAXxe1BPkMuoSdEftxVAw=="
+                length="1391280"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
