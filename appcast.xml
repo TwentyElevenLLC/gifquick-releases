@@ -4,16 +4,16 @@
         <title>GIFquick Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.1</title>
-            <description><![CDATA[<h2>GIFquick 1.1</h2><ul><li>The app now opens on its own the first time</li><li>Clearer welcome with a one-tap link to get your free GIPHY key</li><li>A friendly countdown screen when GIPHY's hourly limit is reached</li><li>Confirmation before quitting or removing your key</li><li>Launch at login on by default</li></ul>]]></description>
-            <pubDate>Sat, 01 Aug 2026 20:07:43 +0000</pubDate>
+            <title>Version 1.2</title>
+            <description><![CDATA[<h2>GIFquick 1.2</h2><ul><li>No setup, no account, no key. GIFquick just works the moment you open it</li><li>GIFs are now powered by KLIPY</li></ul>]]></description>
+            <pubDate>Tue, 04 Aug 2026 21:21:59 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/TwentyElevenLLC/gifquick-releases/releases/download/v1.1/GIFquick-1.1.zip"
-                sparkle:version="2"
-                sparkle:shortVersionString="1.1"
-                sparkle:edSignature="EBpewv27uWv9VKoz93fIFZDjScbQG0UJ2mc0VfKTAvL2TDVBblQ7k2Ycuouv8YSDOlfLVDvE44q/iFBjbcKWBQ=="
-                length="2605218"
+                url="https://github.com/TwentyElevenLLC/gifquick-releases/releases/download/v1.2/GIFquick-1.2.zip"
+                sparkle:version="3"
+                sparkle:shortVersionString="1.2"
+                sparkle:edSignature="a4MoS0ewC30jUv7v+XaVMyygTPYyuidBjqf912lQkTc4KbrR8d19zpebYrlD359XSDi+0wlYnbWhtUejtYoWDQ=="
+                length="2549267"
                 type="application/octet-stream" />
         </item>
     </channel>
