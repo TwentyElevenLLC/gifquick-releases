@@ -4,13 +4,13 @@
         <title>GIFquick Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.5</title>
-            <description><![CDATA[<h2>GIFquick 1.5</h2><ul><li>Drag GIFs right into X and LinkedIn posts</li><li>Right-click any GIF to copy it, then paste it anywhere</li></ul>]]></description>
-            <pubDate>Thu, 06 Aug 2026 22:46:44 +0000</pubDate>
+            <title>Version 1.6</title>
+            <description><![CDATA[<h2>GIFquick 1.6</h2><ul><li>Shared GIFs now carry the GIFquick name</li></ul>]]></description>
+            <pubDate>Fri, 07 Aug 2026 20:54:48 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwentyElevenLLC/gifquick-releases/releases/download/v1.5/GIFquick-1.5.zip"
-                sparkle:version="6" sparkle:shortVersionString="1.5"
-                sparkle:edSignature="/7EgsBRjGAk5OJEObUjUPH/nctHFIxfUWub10C4jgT66+2y6seB8TRtIu9/zv8ApOUm/noWg2Q+LA49vSLdGDw==" length="2577349" type="application/octet-stream" />
+            <enclosure url="https://github.com/TwentyElevenLLC/gifquick-releases/releases/download/v1.6/GIFquick-1.6.zip"
+                sparkle:version="7" sparkle:shortVersionString="1.6"
+                sparkle:edSignature="OSO4ErJYgrgq6k1MxrDOG/x+BBniy/aBDBrFhP+JI7OSYjg68+IyrlktOewAgKy/5FFCdIr9rCQ64emTDPWTBA==" length="2577060" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
